@@ -1,0 +1,7 @@
+.metadata/
+.recommenders/
+README.md
+mm-parent/mm-ear/target/m2e-wtp/
+mm-parent/mm-lib/target/classes/META-INF/
+mm-parent/mm-web1/target/m2e-wtp/
+mm-parent/mm-web2/target/m2e-wtp/
