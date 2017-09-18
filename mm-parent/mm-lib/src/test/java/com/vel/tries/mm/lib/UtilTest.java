@@ -42,5 +42,11 @@ public class UtilTest {
 		int result = util.add(3,3);
 		assertNotSame(result, 5);
 	}
+	
+	@Test
+	public void testAddComplexPass() {
+		int result = util.addcommplex(2,3);
+		assertEquals(5, result);
+	}
 
 }
