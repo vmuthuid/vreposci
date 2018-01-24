@@ -21,7 +21,7 @@
                 <artifactId>jasperreports-functions</artifactId>
                 <version>6.4.3</version>
             </dependency>
-		</d1ependencies>
-		</d1ependencyManagement>
+		</dependencies>
+		</dependencyManagement>
   
 </project>
