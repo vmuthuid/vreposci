@@ -9,19 +9,13 @@
   <artifactId>mm-web2</artifactId>
   <packaging>war</packaging>
   
-  <dependencyManagement>
 		<dependencies>
 		<dependency>
                 <groupId>net.sf.jasperreports</groupId>
                 <artifactId>jasperreports</artifactId>
                 <version>6.4.3</version>
             </dependency>
-            <dependency>
-                <groupId>net.sf.jasperreports</groupId>
-                <artifactId>jasperreports-functions</artifactId>
-                <version>6.4.3</version>
-            </dependency>
-		</dependencies>
-		</dependencyManagement>
+          
+		
   
 </project>
